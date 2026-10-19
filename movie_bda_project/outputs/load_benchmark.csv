@@ -1,0 +1,3 @@
+method,seconds
+read.csv (base R),0.15
+fread (data.table),0.02
